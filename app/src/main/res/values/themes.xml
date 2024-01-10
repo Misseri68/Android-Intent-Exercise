@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Repaso" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/robinEggBlue</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.Repaso" parent="Base.Theme.Repaso">
+        <item name="colorPrimary">@color/robinEggBlue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorPrimaryDark">@color/black</item>
+        <item name="android:colorAccent">@color/naplesYellow</item>
+        <item name="android:typeface">monospace </item>
+        <item name="android:textColorHint">@color/naplesYellow</item>
+    </style>
+
+    <style name="botonEstiloRojo" parent="Base.Theme.Repaso">
+        <item name="android:backgroundTint">@color/lightRed</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+
+    <style name="botonEstiloAzul" parent="Base.Theme.Repaso">
+        <item name="android:backgroundTint">@color/robinEggBlue</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="EditTextStyle" parent="Base.Theme.Repaso">
+        <item name="android:backgroundTint">@color/lightRed</item>
+        <item name="android:textColor">@color/robinEggBlue</item>
+
+
+
+    </style>>
+
+
+</resources>

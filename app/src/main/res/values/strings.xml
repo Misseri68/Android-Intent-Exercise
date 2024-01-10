@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjercicioIntent</string>
+    <string name="botonAceptar">Acceder</string>
+    <string name="botonSiguiente">Siguiente ventana</string>
+    <string name="botonAlta">Date de alta</string>
+    <string name="Bienvenida">Bienvenid@, </string>
+
+
+</resources>

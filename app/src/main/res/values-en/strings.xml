@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentExercise</string>
+    <string name="botonAceptar">Accept</string>
+    <string name="botonSiguiente">Next window</string>
+    <string name="botonAlta">Sign up</string>
+    <string name="Bienvenida">Welcome, </string>
+
+
+</resources>
